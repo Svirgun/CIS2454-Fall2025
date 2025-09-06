@@ -1,7 +1,13 @@
-<?php
 
-/* 
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Scripting/EmptyPHP.php to edit this template
- */
-
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>GIT Intro</title>        
+    </head>
+    <body>
+        <?php
+        echo " Hello world";
+        ?>
+    </body>
+</html>
